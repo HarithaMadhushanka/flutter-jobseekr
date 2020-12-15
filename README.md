@@ -1,6 +1,5 @@
-# flutter_ui
-
-A new Flutter application.
+# Flutter - UI Design - JobSeekr
+This project is designed using flutter framework.
 
 ## Getting Started
 
